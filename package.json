@@ -1,7 +1,7 @@
 {
   "name": "@bve/root",
   "version": "0.0.0-development",
-  "private": true,
+  "private": false,
   "description": "Test Mono Repo",
   "repository": {
     "type": "git",
